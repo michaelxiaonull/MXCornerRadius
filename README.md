@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-singleAvatarImageView-showReal-time image when cornerRadius has changd | imgView.mxDisableRoundImageCache = NO, default is *NO*, cache cornerRadius image can improve high FPS | imgView.mxDisableRoundImageCache = YES, no cache
+when`imgView.mxCornerRadius=xx` changed, imgView-showReal-time image | imgView.mxDisableRoundImageCache = NO, default is *NO*, cache cornerRadius image can improve high FPS | imgView.mxDisableRoundImageCache = YES, no cache
 ---|---|----|
 <image src="https://user-images.githubusercontent.com/38175174/49277476-a9869a80-f4bc-11e8-94e7-e57e247c6a09.gif" width="250px"> | <image src="https://user-images.githubusercontent.com/38175174/49277531-e6529180-f4bc-11e8-8bc3-bbf262aff525.gif" width="250px"> | <image src="https://user-images.githubusercontent.com/38175174/49277737-a9d36580-f4bd-11e8-8305-c8234d44c6c0.gif" width="250px">
 
