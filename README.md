@@ -9,7 +9,7 @@
 ## Screenshots
 
 when`imgView.mxCornerRadius=xxxx` changed, imgView show real-time image | imgView.mxDisableRoundImageCache = NO, default is *NO*, cache cornerRadius image can improve high FPS | imgView.mxDisableRoundImageCache = YES, no cache
----|---|----|
+:---:|:---:|:----:|
 <image src="https://user-images.githubusercontent.com/38175174/49277476-a9869a80-f4bc-11e8-94e7-e57e247c6a09.gif" width="250px"> | <image src="https://user-images.githubusercontent.com/38175174/49277531-e6529180-f4bc-11e8-8bc3-bbf262aff525.gif" width="250px"> | <image src="https://user-images.githubusercontent.com/38175174/49277737-a9d36580-f4bd-11e8-8305-c8234d44c6c0.gif" width="250px">
 
 ## How To Use
@@ -53,7 +53,7 @@ default is NO, when YES, console logs how many cornerRadius images current `MXIm
 ## 屏幕截图
 
 当`imgView.mxCornerRadius=xx`改变时，单个`imgView`实时显示圆角`image` |imgView.mxDisableRoundImageCache = NO, 默认是*NO*,缓存图片,高 FPS| imgView.mxDisableRoundImageCache = YES, 不缓存图片
----|---|----|
+:---:|:---:|:----:|
 <image src="https://user-images.githubusercontent.com/38175174/49277476-a9869a80-f4bc-11e8-94e7-e57e247c6a09.gif" width="250px"> | <image src="https://user-images.githubusercontent.com/38175174/49277531-e6529180-f4bc-11e8-8bc3-bbf262aff525.gif" width="250px"> | <image src="https://user-images.githubusercontent.com/38175174/49277737-a9d36580-f4bd-11e8-8305-c8234d44c6c0.gif" width="250px">
 
 ## 如何使用
